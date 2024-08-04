@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, Docker, and Automation.**
 
-- 📫 How to reach me **wadibhasmetanmay360@gmail.com**
+- 📫 How to reach me **wadibhasmetanmay605@gmail.com**
 
 - ⚡ Fun fact **I love automating things and finding efficient ways to solve problems.**
 
