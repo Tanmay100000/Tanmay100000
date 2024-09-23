@@ -5,7 +5,9 @@
 <h3 align="center">Aspiring DevOps Engineer | Lifelong Learner</h3>
 
 <!-- Animated Coding Image -->
-
+<p align="center">
+  <img src="https://github.com/Tanmay100000/Tanmay100000/blob/main/image1.gif" alt="animated coding image" height=200px/>
+</p>
 <!-- Profile Views Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tanmay100000&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay100000" />
