@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://github.com/Tanmay100000/Tanmay100000/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
+
 
 <h1 align="center">Hi there 👋, I'm Tanmay Wadibhasme</h1>
 <h3 align="center">🚀 Java Full Stack Developer in Training | DevOps Enthusiast | Lifelong Learner</h3>
