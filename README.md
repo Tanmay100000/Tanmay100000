@@ -18,7 +18,7 @@
 - 🎓 MCA Graduate | Ex-Intern at an AI-based chatbot startup  
 - 💼 Currently learning **Java Full Stack Development** + DevOps tools  
 - 🧠 Focused on building **real-world projects** and mastering **automation**  
-- 🔧 Tech Stack: `Java`, `Spring Boot`, `MySQL`, `HTML5/CSS3/JS`, `Docker`, `Jenkins`, `Linux`, `Git`, `GitHub`, `AWS`
+- 🔧 Tech Stack: `Java`, `MySQL`,`HTML5/CSS3/JS`,`Servlet`,`JSP`,`Hibernate`,`Spring Boot`, `Docker`, `Jenkins`, `Linux`, `Git`, `GitHub`, `AWS`
 
 ---
 
